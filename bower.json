@@ -1,7 +1,7 @@
 {
   "name": "json-http-request",
   "main": "json-http-request.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jokesterfr/json-http-request",
   "authors": [
     "jokesterfr <main@jokester.fr>"
